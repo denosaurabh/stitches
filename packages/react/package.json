@@ -1,6 +1,6 @@
 {
   "name": "@denosaurabh/stitches",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "The modern CSS-in-JS library",
   "type": "module",
   "main": "dist/index.cjs",
