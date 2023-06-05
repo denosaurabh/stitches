@@ -95,9 +95,10 @@ export type CSS<
 		[K: string]: (
 			| number
 			| string
-			| CSS<Media, Theme, ThemeMap, Utils>
+			// | CSS<Media, Theme, ThemeMap, Utils>
 			| {}
 			| undefined
+			| any
 		)
 	}
 )
